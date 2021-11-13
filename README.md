@@ -39,7 +39,7 @@ pip install -r requierments.txt
 ~~~
 
 
-РАЗРАБОТЧИКИ
+#### РАЗРАБОТЧИКИ
 
 Семёнов Никита https://t.me/blazinghorizon<br>
 Балюк Евгения https://t.me/JenkaCool<br>
