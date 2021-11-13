@@ -41,8 +41,8 @@ pip install -r requierments.txt
 
 РАЗРАБОТЧИКИ
 
-Семёнов Никита https://t.me/blazinghorizon
-Балюк Евгения https://t.me/JenkaCool
-Ермаков Владимир https://t.me/i100110010000011000101
-Угрюмов Максим https://t.me/maksmixermaxon
+Семёнов Никита https://t.me/blazinghorizon<br>
+Балюк Евгения https://t.me/JenkaCool<br>
+Ермаков Владимир https://t.me/i100110010000011000101<br>
+Угрюмов Максим https://t.me/maksmixermaxon<br>
 Фомин Арсений https://t.me/haganenoken
